@@ -1,0 +1,8 @@
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\bin\Debug\LinqSample003.exe.config
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\bin\Debug\LinqSample003.exe
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\bin\Debug\LinqSample003.pdb
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\obj\Debug\LinqSample003.csproj.AssemblyReference.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\obj\Debug\LinqSample003.csproj.SuggestedBindingRedirects.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\obj\Debug\LinqSample003.csproj.CoreCompileInputs.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\obj\Debug\LinqSample003.exe
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LinqSample003\obj\Debug\LinqSample003.pdb

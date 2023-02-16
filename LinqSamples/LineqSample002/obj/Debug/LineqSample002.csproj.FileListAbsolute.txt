@@ -1,0 +1,8 @@
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\bin\Debug\LineqSample002.exe.config
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\bin\Debug\LineqSample002.exe
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\bin\Debug\LineqSample002.pdb
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\obj\Debug\LineqSample002.csproj.AssemblyReference.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\obj\Debug\LineqSample002.csproj.SuggestedBindingRedirects.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\obj\Debug\LineqSample002.csproj.CoreCompileInputs.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\obj\Debug\LineqSample002.exe
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\LineqSample002\obj\Debug\LineqSample002.pdb

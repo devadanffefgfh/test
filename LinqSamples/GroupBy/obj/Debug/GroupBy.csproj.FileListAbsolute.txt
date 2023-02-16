@@ -1,0 +1,8 @@
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\bin\Debug\GroupBy.exe.config
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\bin\Debug\GroupBy.exe
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\bin\Debug\GroupBy.pdb
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\obj\Debug\GroupBy.csproj.AssemblyReference.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\obj\Debug\GroupBy.csproj.SuggestedBindingRedirects.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\obj\Debug\GroupBy.csproj.CoreCompileInputs.cache
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\obj\Debug\GroupBy.exe
+C:\Users\陳柏翰\Desktop\visual stdio專案\LinqSamples\GroupBy\obj\Debug\GroupBy.pdb
